@@ -1,6 +1,6 @@
 # Batchnblast
 
-Welcome to my Adobe I/O Application!
+Welcome to Batch and Blast Application!
 
 ## Setup
 
@@ -8,7 +8,8 @@ Welcome to my Adobe I/O Application!
 
 ## Local Dev
 
-- `aio app run` to start your local Dev server
+- npm start to run the application and make sure you have docker desktop running
+- Or you can `aio app run --local` to start your local Dev server
 - App will run on `localhost:9080` by default
 
 By default the UI will be served locally but actions will be deployed and served from Adobe I/O Runtime. To start a
