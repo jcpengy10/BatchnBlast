@@ -1,6 +1,6 @@
 # Batchnblast
 
-Welcome to my Batch and Blast Application!
+Welcome to Batch and Blast Application!
 
 ## Setup
 
